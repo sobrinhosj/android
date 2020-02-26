@@ -1,91 +1,91 @@
 ???
-person
-bicycle
-car
-motorcycle
-airplane
-bus
-train
-truck
-boat
-traffic light
-fire hydrant
+pessoa
+bicicleta
+carro
+motocicleta
+avião
+no ônibus
+trem
+caminhão
+bote
+semáforo
+hidrante
 ???
-stop sign
-parking meter
-bench
-bird
-cat
-dog
-horse
-sheep
-cow
-elephant
-bear
+placa transito
+parquímetro
+Banco
+passaro
+gato
+cão
+cavalo
+ovelha
+vaca
+elefante
+Urso
 zebra
-giraffe
+girafa
 ???
-backpack
-umbrella
+mochila
+sombrinha
 ???
 ???
-handbag
-tie
-suitcase
+Bolsa
+gravata
+mala de viagem
 frisbee
-skis
+esquis
 snowboard
-sports ball
-kite
-baseball bat
-baseball glove
-skateboard
-surfboard
-tennis racket
-bottle
+bola de esportes
+pipa
+taco de beisebol
+luva de baseball
+skate
+prancha de surfe
+raquete de tênis
+PET R $ 0,015
 ???
-wine glass
-cup
-fork
-knife
-spoon
-bowl
+vidro $ 0.05
+copo
+garfo
+faca
+colher
+tigela
 banana
-apple
-sandwich
-orange
-broccoli
-carrot
-hot dog
+maçã
+sanduíche
+laranja
+brócolis
+cenoura
+cachorro quente
 pizza
-donut
-cake
-chair
-couch
-potted plant
-bed
+rosquinha
+bolo
+cadeira
+sofá
+vaso de planta
+cama
 ???
-dining table
+mesa de jantar
 ???
 ???
-toilet
+banheiro
 ???
-tv
-laptop
-mouse
-remote
-keyboard
-cell phone
-microwave
-oven
-toaster
-sink
-refrigerator
+televisão
+computador portátil
+rato
+controlo remoto
+teclado
+celular
+microondas
+forno
+torradeira
+Pia
+geladeira
 ???
-book
-clock
-vase
-scissors
-teddy bear
-hair drier
-toothbrush
+livro
+relógio
+vaso
+tesoura
+urso
+secador de cabelo
+escova de dente
