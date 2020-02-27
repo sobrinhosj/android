@@ -35,7 +35,7 @@ Click the Run button (the green arrow) or select Run > Run 'android' from the to
 ### Model used
 Downloading, extraction and placing it in assets folder has been managed automatically by download.gradle.
 
-If you explicitly want to download the model, you can download from **[here](http://storage.googleapis.com/download.tensorflow.org/models/tflite/coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip)**. Extract the zip to get the .tflite and label file.
+If you explicitly want to download the model, you can download from **[here](https://github.com/sobrinhosj/examples/blob/master/lite/examples/object_detection/android/app/src/main/assets/coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip)**. Extract the zip to get the .tflite and label file.
 
 ### Additional Note
 _Please do not delete the assets folder content_. If you explicitly deleted the files, then please choose *Build*->*Rebuild* from menu to re-download the deleted model files into assets folder.
