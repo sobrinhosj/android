@@ -1,6 +1,5 @@
-
 task downloadZipFile(type: Download) {
-    src 'https://github.com/sobrinhosj/examples/blob/master/lite/examples/object_detection/android/app/src/main/assets/coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip'
+    src 'https://drive.google.com/file/d/1NKumh8eeMbVOAMJbksynZkG7WSLhO56d/view?usp=sharing'
     dest new File(buildDir, 'zips/')
     overwrite false
 }
